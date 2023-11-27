@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Arcitech_Assesment/static/css/main.d66e8713.css",
+    "main.js": "/Arcitech_Assesment/static/js/main.c7caf302.js",
+    "static/js/787.6ac643bb.chunk.js": "/Arcitech_Assesment/static/js/787.6ac643bb.chunk.js",
+    "index.html": "/Arcitech_Assesment/index.html",
+    "main.d66e8713.css.map": "/Arcitech_Assesment/static/css/main.d66e8713.css.map",
+    "main.c7caf302.js.map": "/Arcitech_Assesment/static/js/main.c7caf302.js.map",
+    "787.6ac643bb.chunk.js.map": "/Arcitech_Assesment/static/js/787.6ac643bb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d66e8713.css",
+    "static/js/main.c7caf302.js"
+  ]
+}
